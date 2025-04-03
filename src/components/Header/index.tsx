@@ -35,7 +35,7 @@ export default function Header() {
         {/* Github */}
         <Tooltip showArrow content="Github" placement="bottom">
           <a
-            href={`https://github.com/${process.env.GITHUB_USERNAME}/${process.env.PROJECT_NAME}`}
+            href={`https://git6577686hub.com/${process.env.GITHUB_USERNAME}/${process.env.PROJECT_NAME}`}
             target="_blank"
             className="btn-icon"
           >
