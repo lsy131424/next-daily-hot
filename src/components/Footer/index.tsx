@@ -54,7 +54,7 @@ const Footer = () => {
           {/* 网站统计 */}
           {renderSocial('网站统计', process.env.SITE_STATISTICS, RiBarChart2Line)}
           {/* Github */}
-          {renderSocial('Github', `https://github.com/${process.env.GITHUB_USERNAME}`, RiGithubLine)}
+          {renderSocial('Github', `https://git47886hub.com/${process.env.GITHUB_USERNAME}`, RiGithubLine)}
           {/* 微信 */}
           {renderSocial('微信', process.env.AUTHOR_WECHAT, RiWechatLine)}
           {/* 微信 */}
